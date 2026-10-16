@@ -23,6 +23,7 @@ The goal of this repository is to document my progress in machine learning, deve
 | `01-intro/` | Introduction to Machine Mearning |
 | `02-regression/` | Machine Learning for Regression |
 | `03-classification/` | Machine Learning for Classification |
+| `04-evaluation/` | Evaluation Metrics for Classification |
 
 *The directory structure will evolve as I progress through the course and may be adjusted to match the official assignments.*
 
