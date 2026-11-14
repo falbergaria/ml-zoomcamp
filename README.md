@@ -26,6 +26,7 @@ The goal of this repository is to document my progress in machine learning, deve
 | `04-evaluation/` | Evaluation Metrics for Classification |
 | `05-deployment/` | Deploying Machine Learning Models |
 | `06-trees/` | Decision Trees and Ensemble Learning |
+| `07-midterm-project/` | Midterm Project |
 
 *The directory structure will evolve as I progress through the course and may be adjusted to match the official assignments.*
 
